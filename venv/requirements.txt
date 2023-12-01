@@ -1,0 +1,7 @@
+asgiref==3.7.2
+Django==4.2.7
+doxygen-junit==2.3.0
+exitstatus==2.4.0
+pip-autoremove==0.10.0
+sqlparse==0.4.4
+tzdata==2023.3
